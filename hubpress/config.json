@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "drankush",
-    "repositoryName": "drankush.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Roon"
-  }
-}
+{"meta":{"username":"drankush","repositoryName":"drankush.github.io","branch":"master"},"site":{"url":"https://drankush.github.io"},"socialnetwork":{},"theme":{"name":"Saga","url":"//drankush.github.io/themes/Saga"}}
